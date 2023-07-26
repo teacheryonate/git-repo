@@ -1,2 +1,3 @@
 data:
   SECRETE_KEY: aaaaaaaaaaaaaa
+  KAFKAIP: 172.18.0.101:9092
